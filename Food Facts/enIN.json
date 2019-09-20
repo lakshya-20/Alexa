@@ -1,0 +1,38 @@
+{
+    "interactionModel": {
+    "languageModel": {
+    "invocationName": "food facts",
+    "intents": [
+    {
+    "name": "AMAZON.CancelIntent",
+    "samples": []
+    },
+    {
+    "name": "AMAZON.HelpIntent",
+    "samples": []
+    },
+    {
+    "name": "AMAZON.StopIntent",
+    "samples": []
+    },
+    {
+    "name": "AMAZON.NavigateHomeIntent",
+    "samples": []
+    },
+    {
+    "name": "FoodFacts",
+    "slots": [],
+    "samples": [
+    "give me a food fact",
+    "amazing food facts",
+    "a food fact",
+    "food facts",
+    "tell me a food fact",
+    "Share me a fact"
+    ]
+    }
+    ],
+    "types": []
+    }
+    }
+    }
