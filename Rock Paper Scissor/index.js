@@ -1,8 +1,8 @@
 const Alexa = require('ask-sdk-core');
 
 const ACTIONS=[
-            'paper',
             'rock',
+            'paper',
             'scissor'
         ];
 
