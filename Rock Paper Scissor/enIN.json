@@ -29,7 +29,7 @@
     ],
     "samples": [
     "choose {action}",
-    "i would like to choose {action}",
+    "i choose {action}",
     "my choice is {action}",
     "{action}",
     "i choose {action}"
