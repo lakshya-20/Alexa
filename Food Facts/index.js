@@ -50,7 +50,7 @@ const HelpIntentHandler = {
             && handlerInput.requestEnvelope.request.intent.name === 'AMAZON.HelpIntent';
     },
     handle(handlerInput) {
-        const speechText = 'You can ask me about a food fact';
+        const speechText = 'Ask me about a food fact';
 
         return handlerInput.responseBuilder
             .speak(speechText)
